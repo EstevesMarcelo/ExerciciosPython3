@@ -8,7 +8,7 @@ for i in expre:
         pilha.append(i)
     elif i == ')':
         if len(pilha) > 0:
-            pulha.pop()
+            pilha.pop()
         else:
             pilha.append(')')
             break
