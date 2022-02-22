@@ -9,3 +9,5 @@ ex001 - ex015 -> Primeiros passos com Python, tratamento de dados e realização
 
 ex016 - ex027 -> Uso de módulos do Python;
 
+ex028 - ex035 - > Condicionais em Python (IF, ELSE)
+
