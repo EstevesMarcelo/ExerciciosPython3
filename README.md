@@ -7,3 +7,5 @@ Os conceitos abordados nos desafios são:
 
 ex001 - ex015 -> Primeiros passos com Python, tratamento de dados e realização de contas;
 
+ex016 - ex027 -> Uso de módulos do Python;
+
