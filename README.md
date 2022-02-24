@@ -15,3 +15,5 @@ ex036 - ex045 -> Condicionais em Python (IF, ELIF)
 
 ex046 - ex056 -> Repetições em Python (FOR)
 
+ex057 - ex071 - > Repetições em Python (WHILE e comando BREAK)
+
