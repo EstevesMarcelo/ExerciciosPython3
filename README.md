@@ -11,3 +11,5 @@ ex016 - ex027 -> Uso de módulos do Python;
 
 ex028 - ex035 - > Condicionais em Python (IF, ELSE)
 
+ex036 - ex045 -> Condicionais em Python (IF, ELIF)
+
