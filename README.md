@@ -13,3 +13,5 @@ ex028 - ex035 - > Condicionais em Python (IF, ELSE)
 
 ex036 - ex045 -> Condicionais em Python (IF, ELIF)
 
+ex046 - ex056 -> Repetições em Python (FOR)
+
