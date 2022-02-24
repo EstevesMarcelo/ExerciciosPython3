@@ -17,3 +17,11 @@ ex046 - ex056 -> Repetições em Python (FOR)
 
 ex057 - ex071 - > Repetições em Python (WHILE e comando BREAK)
 
+ex072 - ex077 -> Variáveis compostas (Tuplas)
+
+ex078 - ex089 -> Variáveis compostas (Listas)
+
+ex090 - ex095 -> Variáveis compostas (Dicionários)
+
+ex096 - ex106 -> Funções em Python
+
