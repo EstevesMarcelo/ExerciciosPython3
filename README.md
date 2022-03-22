@@ -23,5 +23,7 @@ ex078 - ex089 -> Variáveis compostas (Listas)
 
 ex090 - ex095 -> Variáveis compostas (Dicionários)
 
-ex096 - ex106 -> Funções em Python
+ex096 - ex100 -> Funções em Python
+
+ex101 - ex106 -> Funções em Python (interactive help, docstrings, parâmetros opcionais, escopo de variáveis e retorno de resultados)
 
