@@ -29,3 +29,4 @@ ex101 - ex106 -> Funções em Python (interactive help, docstrings, parâmetros 
 
 ex107 - ex110 -> Modularização em Python
 
+ex113 - ex114 -> Tratamento de erros (Try e Except)
