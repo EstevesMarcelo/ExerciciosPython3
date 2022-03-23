@@ -27,3 +27,5 @@ ex096 - ex100 -> Funções em Python
 
 ex101 - ex106 -> Funções em Python (interactive help, docstrings, parâmetros opcionais, escopo de variáveis e retorno de resultados)
 
+ex107 - ex112 -> Modularização em Python
+
